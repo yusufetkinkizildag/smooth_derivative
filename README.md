@@ -15,7 +15,7 @@ bash clean_build.sh
 ## How to run
 ```console
 cd /path/to/smooth_derivative
-./build/pendulum
+./build/smooth_derivative
 ```
 
 ## clean_build.sh
